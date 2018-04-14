@@ -3,7 +3,7 @@ Team project ment to focus on group dynamics and working with a React/Node app. 
 
 ## Team 
 
-- Mark Albom - Backend. Worked with Luke on backend structure including data structure and transaction method for savign updates. 
+- Mark Albom - Backend. Worked with Luke on backend structure including data structure and transaction method for saving updates. 
 - Mohammad Badruzzaman - Frontend. Worked with Luke on the form.
 - Luke McDonald - Team Lead and main engineer. Worked Moe on the form and completed it. Independently completed remainer of the frontend. Worked with Mark to architect the backend data structure and troubleshoot transactions. Built middle tier to connect the application. Acted as Git owner for project reviewing all commmits and conducting merges. 
 
