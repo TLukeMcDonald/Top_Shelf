@@ -1,13 +1,28 @@
-# Project3
-Project 3 
+# Group Project
+Team project ment to focus on group dynamics and working with a React/Node app. Our team build a beer tracker application for taking notes of your favorite beers.
 
 ## Team 
 
-- Mark Albom
-- Mohammad Badruzzaman
-- Luke McDonald
+- Mark Albom - Backend. Worked with Luke on backend structure including data structure and transaction method for savign updates. 
+- Mohammad Badruzzaman - Frontend. Worked with Luke on the form.
+- Luke McDonald - Team Lead and main engineer. Worked Moe on the form and completed it. Independently completed remainer of the frontend. Worked with Mark to architect the backend data structure and troubleshoot transactions. Built middle tier to connect the application. Acted as Git owner for project reviewing all commmits and conducting merges. 
 
-Description: MVP for this is an app for 
+
+## Technologies
+ 
+Frontend
+- React
+- React-Router
+
+
+Backend
+- Node.js (9)
+- Express
+- Express-session
+- Morgan
+- Pg-promise
+- Webpack
+
 
 ## Wireframes
 - [Wireframe-Main](https://git.generalassemb.ly/HamiltonGroup1Project3/Project3/blob/master/Assets/Wireframes/WF-ListView.JPG)
@@ -55,24 +70,6 @@ Phase4
 - [High order functions tutorials- How to use map, filter, reduce](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
 - [Summary Table, Array.agg - PostGres](https://lorenstewart.me/2017/12/03/postgresqls-array_agg-function/)
 - [Alias syntax - Postgres](https://www.tutorialspoint.com/postgresql/postgresql_alias_syntax.htm)
-
-## Technologies
-
-- React
-
-- Express
-
-## APIs
-
-- List
-- Description
-
-## Modules
-
-- React-Router
-- React-Dom, 
-- React Switch
-- React Component
 
 
 ## Featured Code 
